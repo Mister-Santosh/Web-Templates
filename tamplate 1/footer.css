@@ -1,0 +1,21 @@
+#contect-us{
+    background-color: #00655d;
+    padding: 20px 10px;
+    color: white;
+}
+#contect-us dl>dd{
+    padding: 10px;
+}
+#contect-us dl>dd img{
+    height: 16px;
+}
+#contect-us dl>dd a{
+    display: flex;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+}
+#contect-us dl>dd a span{
+    margin-left: 10px;
+    margin-top: -2px;
+}
